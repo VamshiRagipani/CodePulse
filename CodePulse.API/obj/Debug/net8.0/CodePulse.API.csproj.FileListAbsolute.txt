@@ -273,3 +273,4 @@ C:\Users\shiva\OneDrive\Desktop\Vamshi Raj file\Udemy\CodePulse\API\CodePulse.AP
 C:\Users\shiva\OneDrive\Desktop\Vamshi Raj file\Udemy\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net8.0\CodePulse.API.pdb
 C:\Users\shiva\OneDrive\Desktop\Vamshi Raj file\Udemy\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net8.0\CodePulse.API.genruntimeconfig.cache
 C:\Users\shiva\OneDrive\Desktop\Vamshi Raj file\Udemy\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net8.0\ref\CodePulse.API.dll
+C:\Users\shiva\OneDrive\Desktop\Vamshi Raj file\Udemy\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

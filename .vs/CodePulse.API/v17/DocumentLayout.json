@@ -78,8 +78,7 @@
               "RelativeToolTip": "CodePulse.API\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-08T07:59:00.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T07:59:00.58Z"
             },
             {
               "$type": "Document",
@@ -91,13 +90,12 @@
               "RelativeToolTip": "CodePulse.API\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-08T07:58:47.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T07:58:47.763Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CodePulse.API",
+              "Title": "CodePulse.API.csproj",
               "DocumentMoniker": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
               "RelativeDocumentMoniker": "CodePulse.API\\CodePulse.API.csproj",
               "ToolTip": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
@@ -106,10 +104,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-08T07:58:23.19Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -121,8 +115,7 @@
               "RelativeToolTip": "CodePulse.API\\appsettings.json",
               "ViewState": "AgIAAAYAAAAAAAAAAAAIwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-08T07:55:33.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T07:55:33.323Z"
             },
             {
               "$type": "Document",
@@ -134,8 +127,7 @@
               "RelativeToolTip": "CodePulse.API\\CodePulse.API.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-11-08T07:55:29.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T07:55:29.695Z"
             },
             {
               "$type": "Document",
@@ -147,8 +139,7 @@
               "RelativeToolTip": "CodePulse.API\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T07:55:14.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T07:55:14.709Z"
             },
             {
               "$type": "Document",
@@ -184,8 +175,7 @@
               "RelativeToolTip": "CodePulse.API\\Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T13:15:10.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T13:15:10.479Z"
             },
             {
               "$type": "Document",
@@ -246,6 +236,10 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T18:20:26.49Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
