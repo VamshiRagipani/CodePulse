@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B70B85FF-417A-47C5-B1E4-FD3DDCC39CEA}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\shiva\\onedrive\\desktop\\vamshi raj file\\udemy\\codepulse\\api\\codepulse.api\\codepulse.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70B85FF-417A-47C5-B1E4-FD3DDCC39CEA}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70B85FF-417A-47C5-B1E4-FD3DDCC39CEA}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\shiva\\onedrive\\desktop\\vamshi raj file\\udemy\\codepulse\\api\\codepulse.api\\codepulse.api\\repositories\\implementation\\catergoryrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70B85FF-417A-47C5-B1E4-FD3DDCC39CEA}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\repositories\\implementation\\catergoryrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70B85FF-417A-47C5-B1E4-FD3DDCC39CEA}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\shiva\\onedrive\\desktop\\vamshi raj file\\udemy\\codepulse\\api\\codepulse.api\\codepulse.api\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70B85FF-417A-47C5-B1E4-FD3DDCC39CEA}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70B85FF-417A-47C5-B1E4-FD3DDCC39CEA}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\shiva\\onedrive\\desktop\\vamshi raj file\\udemy\\codepulse\\api\\codepulse.api\\codepulse.api\\models\\dto\\deletecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70B85FF-417A-47C5-B1E4-FD3DDCC39CEA}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\models\\dto\\deletecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70B85FF-417A-47C5-B1E4-FD3DDCC39CEA}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\shiva\\onedrive\\desktop\\vamshi raj file\\udemy\\codepulse\\api\\codepulse.api\\codepulse.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70B85FF-417A-47C5-B1E4-FD3DDCC39CEA}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70B85FF-417A-47C5-B1E4-FD3DDCC39CEA}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\shiva\\onedrive\\desktop\\vamshi raj file\\udemy\\codepulse\\api\\codepulse.api\\codepulse.api\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70B85FF-417A-47C5-B1E4-FD3DDCC39CEA}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70B85FF-417A-47C5-B1E4-FD3DDCC39CEA}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\shiva\\onedrive\\desktop\\vamshi raj file\\udemy\\codepulse\\api\\codepulse.api\\codepulse.api\\models\\dto\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70B85FF-417A-47C5-B1E4-FD3DDCC39CEA}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\models\\dto\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70B85FF-417A-47C5-B1E4-FD3DDCC39CEA}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\shiva\\onedrive\\desktop\\vamshi raj file\\udemy\\codepulse\\api\\codepulse.api\\codepulse.api\\models\\dto\\updatecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70B85FF-417A-47C5-B1E4-FD3DDCC39CEA}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\models\\dto\\updatecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CodePulse.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:16:03.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Models\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Models\\Domain\\Category.cs",
+              "ToolTip": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Models\\Domain\\Category.cs",
+              "RelativeToolTip": "CodePulse.API\\Models\\Domain\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:15:57.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "CodePulse.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:15:10.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "RelativeToolTip": "CodePulse.API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:17:34.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatergoryRespository.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Repositories\\Implementation\\CatergoryRespository.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Repositories\\Implementation\\CatergoryRespository.cs",
+              "ToolTip": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Repositories\\Implementation\\CatergoryRespository.cs",
+              "RelativeToolTip": "CodePulse.API\\Repositories\\Implementation\\CatergoryRespository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowEAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:19:11.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteCategoryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\DeleteCategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Models\\DTO\\DeleteCategoryRequestDto.cs",
+              "ToolTip": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\DeleteCategoryRequestDto.cs",
+              "RelativeToolTip": "CodePulse.API\\Models\\DTO\\DeleteCategoryRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:15:33.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateCategoryRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\CreateCategoryRequestDTO.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Models\\DTO\\CreateCategoryRequestDTO.cs",
+              "ToolTip": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\CreateCategoryRequestDTO.cs",
+              "RelativeToolTip": "CodePulse.API\\Models\\DTO\\CreateCategoryRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:19:50.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateCategoryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\UpdateCategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Models\\DTO\\UpdateCategoryRequestDto.cs",
+              "ToolTip": "C:\\Users\\shiva\\OneDrive\\Desktop\\Vamshi Raj file\\Udemy\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\UpdateCategoryRequestDto.cs",
+              "RelativeToolTip": "CodePulse.API\\Models\\DTO\\UpdateCategoryRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:20:26.49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
